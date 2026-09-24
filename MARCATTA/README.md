@@ -1,6 +1,6 @@
 # MARCATTA — Gráfica e Brindes
 
-> Fonte de verdade estratégica V1.0 da MARCATTA. Atualização: 23/09/2026. Operação em estruturação; números, prazos e capacidade dependem de validação.
+> Fonte de verdade estratégica da MARCATTA. Fase 01 V1.1 atualizada em 24/09/2026. Operação em estruturação; números, prazos e capacidade dependem de validação.
 
 ## Tese
 
@@ -17,7 +17,7 @@ Empresa de soluções gráficas, brindes e kits para o mercado corporativo. A MA
 
 | # | Módulo | Decisão ou entrega |
 |---|---|---|
-| 01 | [Modelo de negócio](./01_MODELO_DE_NEGOCIO.md) | Tese, segmentos, receitas e limites |
+| 01 | [Arquitetura estratégica](./01_MODELO_DE_NEGOCIO.md) | Posicionamento, ICP, valor, modelo, portfólio, receitas e validação |
 | 02 | [Identidade](./02_IDENTIDADE_VISUAL_E_VERBAL.md) | Ativos, paleta observada e aplicações |
 | 03 | [Referências](./03_REFERENCIAS_E_MERCADO.md) | Processos públicos e aprendizados |
 | 04 | [Portfólio](./04_PUBLICOS_E_PORTFOLIO.md) | ICP, três famílias e ficha de oferta |
@@ -29,6 +29,10 @@ Empresa de soluções gráficas, brindes e kits para o mercado corporativo. A MA
 | 10 | [Marketing](./10_MARKETING_E_CONTEUDO.md) | Mensagem, conteúdo e métricas |
 | 11 | [Administração](./11_ADMINISTRACAO_E_GOVERNANCA.md) | Papéis, documentos e rotinas |
 | 12 | [Roadmap](./12_ROADMAP_E_DECISOES.md) | Execução 2026–2027 e dados pendentes |
+
+## Fase 01 — Estratégia
+
+A arquitetura V1.1 prioriza RH/People e Marketing/Eventos, com kits de onboarding e reconhecimento e gráfica empresarial como ofertas de entrada. Veja [o módulo 01](./01_MODELO_DE_NEGOCIO.md) e a [especificação no Notion](https://app.notion.com/p/3e594ba6bce4812c9f6efe6ff13fe3c5). O plano de 30 dias mede entrevistas, fornecedores, amostras, propostas e pedidos pagos; as quantidades são metas de aprendizagem, não projeções.
 
 ## Materiais
 
