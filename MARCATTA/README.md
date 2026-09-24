@@ -36,7 +36,8 @@ A arquitetura V1.1 prioriza RH/People e Marketing/Eventos, com kits de onboardin
 
 ## Materiais
 
-- [Modelo de negócio em PDF](./documentos/MARCATTA_Modelo_de_Negocio_V1.0.pdf).
+- [Fase 01 — Estratégia V1.1 em PDF](./documentos/MARCATTA_Fase_01_Estrategia_V1.1.pdf) — versão executiva vigente.
+- [Modelo de negócio V1.0 em PDF](./documentos/MARCATTA_Modelo_de_Negocio_V1.0.pdf) — registro anterior à Fase 01.
 - [Identidade visual original](./identidade/). Os arquivos PNG foram fornecidos pela fundadora; suas versões não devem ser redesenhadas automaticamente.
 - [Painel operacional no Notion](https://app.notion.com/p/fe12997b21424abdb34c2f947121ef9d). A vinculação ao Grupo Quellem Hub depende de acesso à página de destino.
 
