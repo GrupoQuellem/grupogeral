@@ -34,8 +34,14 @@ Empresa de soluções gráficas, brindes e kits para o mercado corporativo. A MA
 
 A arquitetura V1.1 prioriza RH/People e Marketing/Eventos, com kits de onboarding e reconhecimento e gráfica empresarial como ofertas de entrada. Veja [o módulo 01](./01_MODELO_DE_NEGOCIO.md) e a [especificação no Notion](https://app.notion.com/p/3e594ba6bce4812c9f6efe6ff13fe3c5). O plano de 30 dias mede entrevistas, fornecedores, amostras, propostas e pedidos pagos; as quantidades são metas de aprendizagem, não projeções.
 
+## Fase 03 — Produto
+
+[Catálogo mestre, fichas, composições e política de precificação](./FASE_03_PRODUTO.md), com 18 SKUs mestres em estado de conceito, três kits e portões de homologação.
+
 ## Materiais
 
+- [Fase 03 — Produto V1.0 em PDF](./documentos/MARCATTA_Fase_03_Produto_V1.0.pdf).
+- [Fase 03 — Catálogo e precificação V1.0 em XLSX](./MARCATTA_Fase_03_Catalogo_e_Precificacao_V1.0.xlsx).
 - [Fase 01 — Estratégia V1.1 em PDF](./documentos/MARCATTA_Fase_01_Estrategia_V1.1.pdf) — versão executiva vigente.
 - [Modelo de negócio V1.0 em PDF](./documentos/MARCATTA_Modelo_de_Negocio_V1.0.pdf) — registro anterior à Fase 01.
 - [Identidade visual original](./identidade/). Os arquivos PNG foram fornecidos pela fundadora; suas versões não devem ser redesenhadas automaticamente.
